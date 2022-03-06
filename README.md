@@ -1,6 +1,10 @@
 # LGBT-VHS-case
 A sleek LGBT VHS case
 
+![](photo01.jpg)
+
+![](photo02.jpg)
+
 ## How to make
 
 1. Download the newest two files ![here](https://github.com/DerZombiiie/LGBT-VHS-case/releases)
