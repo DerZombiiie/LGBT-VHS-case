@@ -11,3 +11,7 @@ A sleek LGBT VHS case
 2. Print the files
 3. Glue together
 4. done!
+
+## Thanks go to:
+
+- ![CRD](https://www.youtube.com/c/CathodeRayDude) for the idea
